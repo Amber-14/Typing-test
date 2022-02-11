@@ -52,6 +52,7 @@ function newQuote(){
     })
    inputText.value = null
    startTimer()
+   
 }
 
 let startTime
